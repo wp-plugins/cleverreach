@@ -29,10 +29,10 @@ function haet_cleverreach_get_default_settings(){
     return array(
         'show_in_comments'          =>  1,
         'show_in_comments_caption'  =>  __('Sign up for our newsletter','haet_cleverreach'),
-        'show_in_comments_defaultchecked'   =>  1,
+        'show_in_comments_defaultchecked'   =>  0,
         'show_at_registration'          =>  0,
         'show_at_registration_caption'  =>  __('Sign up for our newsletter','haet_cleverreach'),
-        'show_at_registration_defaultchecked'   =>  1,
+        'show_at_registration_defaultchecked'   =>  0,
         'label_position'    => 'left',
         'message_error'     =>  __('Oops. Something went wrong. Please try again later.','haet_cleverreach'),
         'message_success'   =>  __('Thank you for your subscription.','haet_cleverreach'),
@@ -40,8 +40,7 @@ function haet_cleverreach_get_default_settings(){
         'message_invalid_email' =>   __('Please provide a valid email address.','haet_cleverreach'),
         'message_required_field' =>  __('This is a mandatory field.','haet_cleverreach'),
         'signup_form_id'    =>  '',
-        'signup_list_id'    =>  '',
-        'signup_optin'      =>  1
+        'signup_list_id'    =>  ''
     );
 }
 
