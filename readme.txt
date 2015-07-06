@@ -3,7 +3,7 @@ Contributors: haet
 Tags: email, newsletter, cleverreach, campaign, widget, marketing
 Requires at least: 3.9
 Tested up to: 4.2.2
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,10 @@ Display a checkbox in your comment form to allow users to subscribe to your news
 = Integrate CleverReach in your Contact form =
 Have a look at the [NinjaForms CleverReach plugin](http://etzelstorfer.com/ninja-forms-cleverreach/) to send any contact form submissions directly to your CleverReach lists.
 
+= Add a newsletter signup checkbox to your WooCommerce checkout process =
+Get more subscribers by adding adding subscription to your store checkout. [more...](http://etzelstorfer.com/en/downloads/cleverreach-woocommerce-integration/)
+
+
 = Free Beautiful HTML Mails for your WordPress site =
 With [WP HTML Mail](http://wp-html-mail.com/) you can create beautiful responsive mail templates for your WordPress mails without any coding.
 
@@ -54,6 +58,10 @@ Answer
 2. Comment Form Integration
 
 == Changelog ==
+
+= 1.4 =
+Added error message in case of missing email address
+[read more](https://wordpress.org/support/topic/wrong-validation-message)
 
 = 1.3 =
 Removed Ajax Bug return 0 instead of success/error message
