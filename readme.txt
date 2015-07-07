@@ -36,6 +36,7 @@ Display a checkbox in your comment form to allow users to subscribe to your news
 = Integrate CleverReach in your Contact form =
 Have a look at the [NinjaForms CleverReach plugin](http://etzelstorfer.com/ninja-forms-cleverreach/) to send any contact form submissions directly to your CleverReach lists.
 
+
 = Add a newsletter signup checkbox to your WooCommerce checkout process =
 Get more subscribers by adding adding subscription to your store checkout. [more...](http://etzelstorfer.com/en/downloads/cleverreach-woocommerce-integration/)
 
